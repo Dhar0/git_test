@@ -1,0 +1,5 @@
+I am adding something to this file just for the sake of it.
+Say hello file.
+Hello.
+Let's test on more thing
+Does modifying the file remove it from staging?
