@@ -3,3 +3,6 @@ Say hello file.
 Hello.
 Let's test on more thing
 Does modifying the file remove it from staging?
+test
+test2
+Test 3
